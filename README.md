@@ -1,1 +1,1 @@
-# Multithreaded-Tic-Tac-Toe-server-in-C-
+# Multithreaded-Tic-Tac-Toe-server-in-C++-
